@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/bx-vault-extractor/static/css/main.5e4c247f.css",
+    "main.css": "/bx-vault-extractor/static/css/main.aab36ac6.css",
     "main.js": "/bx-vault-extractor/static/js/main.77aa6a2c.js",
     "index.html": "/bx-vault-extractor/index.html",
-    "main.5e4c247f.css.map": "/bx-vault-extractor/static/css/main.5e4c247f.css.map",
+    "main.aab36ac6.css.map": "/bx-vault-extractor/static/css/main.aab36ac6.css.map",
     "main.77aa6a2c.js.map": "/bx-vault-extractor/static/js/main.77aa6a2c.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e4c247f.css",
+    "static/css/main.aab36ac6.css",
     "static/js/main.77aa6a2c.js"
   ]
 }
