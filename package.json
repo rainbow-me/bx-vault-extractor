@@ -1,5 +1,6 @@
 {
   "name": "vault-extractor",
+  "homepage": "https://rainbow-me.github.io/bx-vault-extractor",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
